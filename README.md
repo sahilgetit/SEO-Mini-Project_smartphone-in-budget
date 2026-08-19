@@ -1,4 +1,4 @@
-# SEO Mini Project – Budget Smartphones Niche
+# TechUnder15K – End-to-End SEO
 
 An end-to-end SEO project covering everything from niche validation to a live, optimized WordPress website. This project was built to demonstrate a practical, hands-on understanding of how real-world SEO campaigns and websites are planned, built, and deployed.
 
